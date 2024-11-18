@@ -1,0 +1,11 @@
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\bin\Debug\net8.0\EFModellayer.deps.json
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\bin\Debug\net8.0\EFModellayer.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\bin\Debug\net8.0\EFModellayer.pdb
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\obj\Debug\net8.0\EFModellayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\obj\Debug\net8.0\EFModellayer.AssemblyInfoInputs.cache
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\obj\Debug\net8.0\EFModellayer.AssemblyInfo.cs
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\obj\Debug\net8.0\EFModellayer.csproj.CoreCompileInputs.cache
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\obj\Debug\net8.0\EFModellayer.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\obj\Debug\net8.0\refint\EFModellayer.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\obj\Debug\net8.0\EFModellayer.pdb
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFModellayer\obj\Debug\net8.0\ref\EFModellayer.dll

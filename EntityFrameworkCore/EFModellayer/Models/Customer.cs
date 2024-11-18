@@ -1,0 +1,27 @@
+﻿
+
+namespace EFModellayer.Models
+{
+    // Entity - Customer
+    public class Customer
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string? Address { get; set; }
+        public string? Phone { get; set; }
+        public string? Email { get; set; }
+
+
+        //public Customer(string fname, string lname, string address, string phone, string email)
+        //{
+        //    FirstName = fname;
+        //    LastName = lname;
+        //    Address = address;
+        //    Phone = phone;
+        //    Email = email;
+        //}
+        public ICollection<Order> Orders { get; set; }
+      
+    }
+}

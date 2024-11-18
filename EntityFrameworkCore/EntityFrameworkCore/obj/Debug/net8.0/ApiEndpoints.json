@@ -1,0 +1,114 @@
+[
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.MasterDataController",
+    "Method": "GetCountries",
+    "RelativePath": "api/MasterData/countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.MasterDataController",
+    "Method": "GetCurrencies",
+    "RelativePath": "api/MasterData/currencies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.CustomerController",
+    "Method": "GetAll",
+    "RelativePath": "Customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EFModellayer.Models.Customer, EFModellayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetCustomer"
+  },
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.FactoryPatternController",
+    "Method": "Getfactory",
+    "RelativePath": "FactoryPattern",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "Factory_Pattern"
+  },
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.ProductController",
+    "Method": "Create",
+    "RelativePath": "Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "AddCustomer"
+  },
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.ProductController",
+    "Method": "Update",
+    "RelativePath": "Product/{price}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "price",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.ProductController",
+    "Method": "Delete",
+    "RelativePath": "Product/{Productname}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Productname",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

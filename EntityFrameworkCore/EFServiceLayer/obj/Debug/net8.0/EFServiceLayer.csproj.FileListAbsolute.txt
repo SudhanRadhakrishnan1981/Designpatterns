@@ -1,0 +1,17 @@
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\bin\Debug\net8.0\EFServiceLayer.deps.json
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\bin\Debug\net8.0\EFServiceLayer.runtimeconfig.json
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\bin\Debug\net8.0\EFServiceLayer.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\bin\Debug\net8.0\EFServiceLayer.pdb
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\bin\Debug\net8.0\EFModellayer.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\bin\Debug\net8.0\EFModellayer.pdb
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.csproj.AssemblyReference.cache
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.AssemblyInfoInputs.cache
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.AssemblyInfo.cs
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.csproj.CoreCompileInputs.cache
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServic.F04F4843.Up2Date
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\refint\EFServiceLayer.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.pdb
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.genruntimeconfig.cache
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\ref\EFServiceLayer.dll
