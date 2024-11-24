@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\entityframeworkcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|solutionrelative:efservicelayer\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C99BD00-98BD-45D4-86E7-982255E4172D}|EFModellayer\\EFModellayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efmodellayer\\models\\prductc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C99BD00-98BD-45D4-86E7-982255E4172D}|EFModellayer\\EFModellayer.csproj|solutionrelative:efmodellayer\\models\\prductc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|solutionrelative:efservicelayer\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|solutionrelative:efservicelayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\RabbitmqConsoleApp1.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\RabbitmqConsoleApp1.csproj|solutionrelative:rabbitmqconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\entityframeworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +27,12 @@
       "RelativeMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|solutionrelative:efservicelayer\\rabitmq\\rabitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|solutionrelative:efservicelayer\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\entityframeworkcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C99BD00-98BD-45D4-86E7-982255E4172D}|EFModellayer\\EFModellayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efmodellayer\\models\\prductc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C99BD00-98BD-45D4-86E7-982255E4172D}|EFModellayer\\EFModellayer.csproj|solutionrelative:efmodellayer\\models\\prductc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\repositorymodule\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\repositorymodule\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|solutionrelative:efservicelayer\\repositorymodule\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|solutionrelative:efservicelayer\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\data\\customerpizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,31 +78,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\Program.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:37:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RabitMQProducer.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\RabitMQ\\RabitMQProducer.cs",
               "RelativeDocumentMoniker": "EFServiceLayer\\RabitMQ\\RabitMQProducer.cs",
               "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\RabitMQ\\RabitMQProducer.cs",
               "RelativeToolTip": "EFServiceLayer\\RabitMQ\\RabitMQProducer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:55:36.839Z"
+              "WhenOpened": "2024-11-24T17:55:36.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\RepositoryModule\\ProductRepository.cs",
               "RelativeDocumentMoniker": "EFServiceLayer\\RepositoryModule\\ProductRepository.cs",
               "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\RepositoryModule\\ProductRepository.cs",
               "RelativeToolTip": "EFServiceLayer\\RepositoryModule\\ProductRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:36:29.802Z"
+              "WhenOpened": "2024-11-24T16:36:29.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -108,27 +127,27 @@
               "RelativeDocumentMoniker": "EFServiceLayer\\UnitOfWork.cs",
               "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\UnitOfWork.cs",
               "RelativeToolTip": "EFServiceLayer\\UnitOfWork.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwBQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T16:56:32.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EntityFrameworkCore\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\ProductController.cs",
               "RelativeToolTip": "EntityFrameworkCore\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAIA3wEcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAawEcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T16:34:18.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Prductc.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFModellayer\\Models\\Prductc.cs",
               "RelativeDocumentMoniker": "EFModellayer\\Models\\Prductc.cs",
@@ -141,31 +160,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\Program.cs",
               "RelativeDocumentMoniker": "EntityFrameworkCore\\Program.cs",
               "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\Program.cs",
               "RelativeToolTip": "EntityFrameworkCore\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:34:32.22Z"
+              "WhenOpened": "2024-11-24T17:34:32.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Service\\ProductService.cs",
               "RelativeDocumentMoniker": "EFServiceLayer\\Service\\ProductService.cs",
               "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Service\\ProductService.cs",
               "RelativeToolTip": "EFServiceLayer\\Service\\ProductService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAawCMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:32:58.106Z"
+              "WhenOpened": "2024-11-24T17:32:58.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\RepositoryModule\\IProductRepository.cs",
               "RelativeDocumentMoniker": "EFServiceLayer\\RepositoryModule\\IProductRepository.cs",
@@ -173,11 +194,25 @@
               "RelativeToolTip": "EFServiceLayer\\RepositoryModule\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:10:16.897Z"
+              "WhenOpened": "2024-11-24T17:10:16.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Repository.cs",
+              "RelativeDocumentMoniker": "EFServiceLayer\\Repository.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Repository.cs",
+              "RelativeToolTip": "EFServiceLayer\\Repository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA1wBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:32:58.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CustomerPizzaContext.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Data\\CustomerPizzaContext.cs",
               "RelativeDocumentMoniker": "EFServiceLayer\\Data\\CustomerPizzaContext.cs",
@@ -185,23 +220,12 @@
               "RelativeToolTip": "EFServiceLayer\\Data\\CustomerPizzaContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:36:35.884Z"
+              "WhenOpened": "2024-11-24T16:36:35.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Repository.cs",
-              "RelativeDocumentMoniker": "EFServiceLayer\\Repository.cs",
-              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Repository.cs",
-              "RelativeToolTip": "EFServiceLayer\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:32:58.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "EntityFrameworkCore\\Controllers\\CustomerController.cs",
@@ -209,11 +233,12 @@
               "RelativeToolTip": "EntityFrameworkCore\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:44:36.75Z"
+              "WhenOpened": "2024-11-24T16:44:36.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MasterDataController.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\Controllers\\MasterDataController.cs",
               "RelativeDocumentMoniker": "EntityFrameworkCore\\Controllers\\MasterDataController.cs",
@@ -221,11 +246,12 @@
               "RelativeToolTip": "EntityFrameworkCore\\Controllers\\MasterDataController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:44:45.329Z"
+              "WhenOpened": "2024-11-24T16:44:45.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\RepositoryModule\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "EFServiceLayer\\RepositoryModule\\IOrderRepository.cs",
@@ -233,11 +259,12 @@
               "RelativeToolTip": "EFServiceLayer\\RepositoryModule\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:43:10.469Z"
+              "WhenOpened": "2024-11-24T16:43:10.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\appsettings.json",
               "RelativeDocumentMoniker": "EntityFrameworkCore\\appsettings.json",
@@ -245,11 +272,12 @@
               "RelativeToolTip": "EntityFrameworkCore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-24T16:35:47.744Z"
+              "WhenOpened": "2024-11-24T16:35:47.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
@@ -257,11 +285,12 @@
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:57:43.055Z"
+              "WhenOpened": "2024-11-19T12:57:43.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LuhnAlgorithmTests.cs",
               "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\TestProject1\\LuhnAlgorithmTests.cs",
               "RelativeDocumentMoniker": "TestProject1\\LuhnAlgorithmTests.cs",
@@ -269,7 +298,8 @@
               "RelativeToolTip": "TestProject1\\LuhnAlgorithmTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T12:57:33.419Z"
+              "WhenOpened": "2024-11-19T12:57:33.419Z",
+              "EditorCaption": ""
             }
           ]
         }
