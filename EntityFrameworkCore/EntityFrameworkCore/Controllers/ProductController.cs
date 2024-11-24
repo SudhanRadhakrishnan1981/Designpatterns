@@ -69,7 +69,7 @@ namespace EntityFrameworkCore.Controllers
                 _rabitMQProducer.SendProductMessage(firstproduct);
             }
           
-            // Replace with logic to create a new item
+            // 
             return Ok();
         }
 
