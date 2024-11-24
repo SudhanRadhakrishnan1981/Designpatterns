@@ -1,7 +1,10 @@
 using EFModellayer.Data;
 using EFServiceLayer;
+using EFServiceLayer.RabitMQ;
+using EFServiceLayer.RepositoryModule;
 using EFServiceLayer.Service;
 using EntityFrameworkCore.FactoryPattern;
+using FluentAssertions.Common;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,6 +24,8 @@ builder.Services.AddDbContext<CustomerPizzaContext>(options =>
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IRabitMQProducer, RabitMQProducer>();
 // : 
 /*
  builder.Services.AddDbContext<CustomerPizzaContext>(options =>

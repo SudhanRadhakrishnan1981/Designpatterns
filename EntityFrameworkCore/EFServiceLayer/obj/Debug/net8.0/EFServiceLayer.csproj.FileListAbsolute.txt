@@ -9,6 +9,7 @@ D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\ob
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.AssemblyInfoInputs.cache
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.AssemblyInfo.cs
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.csproj.CoreCompileInputs.cache
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.sourcelink.json
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServic.F04F4843.Up2Date
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\EFServiceLayer.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EFServiceLayer\obj\Debug\net8.0\refint\EFServiceLayer.dll

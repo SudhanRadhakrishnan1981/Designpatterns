@@ -15,6 +15,10 @@ namespace EFServiceLayer.Service
         void DeleteProduct(Product product);
 
 
+        Task<IEnumerable<Product>> GetAllProductsAsync();
+        Task<Product> GetProductById(int id);
+
+
 
     }
 }

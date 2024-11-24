@@ -59,6 +59,17 @@
   },
   {
     "ContainingType": "EntityFrameworkCore.Controllers.ProductController",
+    "Method": "GetAll",
+    "RelativePath": "Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetProduct"
+  },
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.ProductController",
     "Method": "Create",
     "RelativePath": "Product",
     "HttpMethod": "POST",
@@ -66,8 +77,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "product",
+        "Type": "EFModellayer.Models.Product",
         "IsRequired": true
       }
     ],
@@ -107,6 +118,22 @@
         "Name": "Productname",
         "Type": "System.String",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntityFrameworkCore.Controllers.ProductController",
+    "Method": "GetProductById",
+    "RelativePath": "Product/getproductbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

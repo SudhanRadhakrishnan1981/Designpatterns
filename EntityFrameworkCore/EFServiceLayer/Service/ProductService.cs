@@ -1,4 +1,5 @@
 ﻿using EFModellayer.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,6 +28,17 @@ namespace EFServiceLayer.Service
         public void DeleteProduct(Product product)
         {
             throw new NotImplementedException();
+        }
+
+        public async Task<Product> GetProductById(int id)
+        {
+            return await _unitOfWork.ProductRepository.GetUserWithOrdersAsync(id);
+        }
+
+        public async Task<IEnumerable<Product>> GetAllProductsAsync()
+        {
+
+            return await _unitOfWork.ProductRepository.GetAllProductsAsync();
         }
 
         public void UpdateProduct(Product product)

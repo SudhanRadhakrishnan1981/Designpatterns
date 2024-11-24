@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFServiceLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd4bf75b0ab06f530d3ab4ad00ab4994d5fcde32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16e14cd237e9cb96223acc56978bb1739a673588")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFServiceLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFServiceLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,7 +23,8 @@ namespace EFServiceLayer
             _repositories = new Dictionary<Type, object>();
             _serviceProvider = serviceProvider;
         }
-        public IProductRepository UserRepository => _serviceProvider.GetService<IProductRepository>();
+        public IProductRepository ProductRepository => _serviceProvider.GetService<IProductRepository>();
+
         public IOrderRepository OrderRepository => _serviceProvider.GetService<IOrderRepository>();
 
         public async Task<int> CompleteAsync()

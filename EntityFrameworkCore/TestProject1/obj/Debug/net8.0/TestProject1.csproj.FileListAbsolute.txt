@@ -157,16 +157,16 @@ C:\Users\hp\source\repos\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestP
 C:\Users\hp\source\repos\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 C:\Users\hp\source\repos\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\CoverletSourceRootsMapping
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\testhost.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\EntityFrameworkCore.deps.json
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\EntityFrameworkCore.runtimeconfig.json
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\appsettings.Development.json
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\appsettings.json
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\EntityFrameworkCore.exe
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\testhost.exe
-D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\testhost.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
-D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\EntityFrameworkCore.deps.json
-D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\EntityFrameworkCore.runtimeconfig.json
-D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\EntityFrameworkCore.exe
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\TestProject1.deps.json
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\TestProject1.runtimeconfig.json
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\TestProject1.dll
@@ -209,6 +209,7 @@ D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\RabbitMQ.Client.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -312,6 +313,7 @@ D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProj.494AA513.Up2Date
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProject1.dll
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\refint\TestProject1.dll

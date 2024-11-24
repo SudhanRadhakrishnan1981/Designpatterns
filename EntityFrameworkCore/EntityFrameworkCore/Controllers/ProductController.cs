@@ -1,4 +1,5 @@
 using EFModellayer.Models;
+using EFServiceLayer.RabitMQ;
 using EFServiceLayer.Service;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,49 +10,64 @@ namespace EntityFrameworkCore.Controllers
     public class ProductController : ControllerBase
     {
 
-        private readonly IProductService productcontext;
+        private readonly IProductService productservices;
 
         private readonly ILogger<ProductController> _logger;
 
-        public ProductController(ILogger<ProductController> logger, IProductService customerPizzaContext)
+        private readonly IRabitMQProducer _rabitMQProducer;
+
+        public ProductController(ILogger<ProductController> logger, IProductService customerPizzaContext, IRabitMQProducer rabitMQProducer)
         {
             _logger = logger;
-            productcontext = customerPizzaContext;
+            productservices = customerPizzaContext;
+            _rabitMQProducer = rabitMQProducer;
         }
 
 
 
-        //// GET: api/example
-        //[HttpGet(Name = "GetProduct")]
-        //public ActionResult<IEnumerable<Product>> GetAll()
-        //{
+        // GET: api/example
+        [HttpGet(Name = "GetProduct")]
+        public async Task<IActionResult> GetAll()
+        {
 
 
-        //    var products = productcontext.Product
-        //            .Where(p => p.Price > 0.0M)
-        //            .OrderBy(p => p.Name)
-        //            .AsNoTracking() // Using AsNoTracking to avoid tracking changes
-        //            .ToList();
+            //var products = productcontext.Product
+            //        .Where(p => p.Price > 0.0M)
+            //        .OrderBy(p => p.Name)
+            //        .AsNoTracking() // Using AsNoTracking to avoid tracking changes
+            //        .ToList();
+
+          //  var products = productservices.GetProductList();
+            var products = await productservices.GetAllProductsAsync();
 
 
-        //    // Replace with logic to fetch and return all items
-        //    return Ok(products);
-        //}
+            // Replace with logic to fetch and return all items
+            return Ok(products);
+        }
 
-
+        [HttpGet("getproductbyid")]
+        public async Task<IActionResult> GetProductById(int Id)
+        {
+            var product = await productservices.GetProductById(Id);
+            return Ok(product);
+        }
 
         // POST: api/example
         [HttpPost(Name = "AddCustomer")]
-        public ActionResult Create([FromBody] string value)
+        public ActionResult Create(Product product)
         {
-           
-          
+            if (product != null)
+            {
                 Product firstproduct = new Product()
                 {
-                    Name = value,
-                    Price = 9.99M
+                    Name = product.Name,
+                    Price = product.Price,
+                    ProductDescription = product.ProductDescription,
+                    ProductStock = product.ProductStock
                 };
-            productcontext.AddProduct(firstproduct);
+                productservices.AddProduct(firstproduct);
+                _rabitMQProducer.SendProductMessage(firstproduct);
+            }
           
             // Replace with logic to create a new item
             return Ok();

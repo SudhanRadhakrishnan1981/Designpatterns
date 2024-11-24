@@ -10,5 +10,6 @@ namespace EFServiceLayer.RepositoryModule
     public  interface IProductRepository : IRepository<Product>
     {
         Task<Product> GetUserWithOrdersAsync(int id);
+        Task<IEnumerable<Product>> GetAllProductsAsync();
     }
 }
