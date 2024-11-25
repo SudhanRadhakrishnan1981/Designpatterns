@@ -26,6 +26,7 @@ builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IRabitMQProducer, RabitMQProducer>();
+builder.Services.AddTransient<IEmployees, EmployeeRepository>();
 // : 
 /*
  builder.Services.AddDbContext<CustomerPizzaContext>(options =>
