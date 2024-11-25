@@ -96,19 +96,15 @@ namespace EntityFrameworkCore.Controllers
 
         // DELETE: api/example/5
         [HttpDelete("{Productname}")]
-        public IActionResult Delete(string Productname)
+        public async Task<IActionResult> Delete(int ProductId)
         {
+            var product = await productservices.GetProductById(ProductId);
 
+            if (product != null)
+            {
+                productservices.DeleteProduct(product);
+            }
 
-            //var Aswathproducts = context.Product
-            //        .Where(p => p.Name == Productname)
-            //        .FirstOrDefault();
-
-            //if (Aswathproducts is Product)
-            //{
-            //    context.Remove(Aswathproducts);
-            //}
-            //context.SaveChanges();
 
             return Ok();
         }

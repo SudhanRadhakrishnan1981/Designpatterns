@@ -17,8 +17,8 @@ namespace EFServiceLayer.Service
         }
         public void AddProduct(Product product)
         {
-            var userRepository = _unitOfWork.GetRepository<Product>();
-            userRepository.AddAsync(product);
+            var productRepository = _unitOfWork.GetRepository<Product>();
+            productRepository.AddAsync(product);
 
             // Additional logic, if any...
 
@@ -27,7 +27,12 @@ namespace EFServiceLayer.Service
 
         public void DeleteProduct(Product product)
         {
-            throw new NotImplementedException();
+            var productRepository = _unitOfWork.GetRepository<Product>();
+            productRepository.Delete(product);
+
+            // Additional logic, if any...
+
+            _unitOfWork.SaveChanges();
         }
 
         public async Task<Product> GetProductById(int id)
@@ -43,8 +48,8 @@ namespace EFServiceLayer.Service
 
         public void UpdateProduct(Product product)
         {
-            var userRepository = _unitOfWork.GetRepository<Product>();
-            userRepository.Update(product);
+            var productRepository = _unitOfWork.GetRepository<Product>();
+            productRepository.Update(product);
 
             // Additional logic, if any...
 

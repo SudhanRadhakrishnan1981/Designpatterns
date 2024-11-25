@@ -115,8 +115,13 @@
     "Order": 0,
     "Parameters": [
       {
+        "Name": "ProductId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
         "Name": "Productname",
-        "Type": "System.String",
+        "Type": "",
         "IsRequired": true
       }
     ],
