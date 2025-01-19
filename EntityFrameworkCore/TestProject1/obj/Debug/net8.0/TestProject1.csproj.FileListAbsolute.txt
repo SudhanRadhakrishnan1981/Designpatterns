@@ -320,3 +320,4 @@ D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\TestProject1\bin\Debug\net8.0\Microsoft.Office.Interop.Excel.dll

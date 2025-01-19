@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\efservicelayer\\data\\customerpizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E585EE-A3AF-4A3B-98F9-AD0D16776CD0}|EFServiceLayer\\EFServiceLayer.csproj|solutionrelative:efservicelayer\\data\\customerpizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\entityframeworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\entityframeworkcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C13090F1-543F-4C71-A241-8D59FE958327}|EntityFrameworkCore\\EntityFrameworkCore.csproj|solutionrelative:entityframeworkcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\interviewquestion\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\interviewquestion\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\interviewquestion\\stockpricechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\interviewquestion\\stockpricechangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\interviewquestion\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\interviewquestion\\eventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\interviewquestion\\cridercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\interviewquestion\\cridercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\abstractclass\\cartdtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\abstractclass\\cartdtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\interviewquestion\\accessapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\interviewquestion\\accessapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\testmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\testmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\accessapi\\spoonacularservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\accessapi\\spoonacularservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|d:\\application\\entityframework\\apiservices\\entityframeworkcore\\rabbitmqconsoleapp1\\constantstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59DA31-F8A0-4895-B145-9BE30F295115}|RabbitmqConsoleApp1\\LearningConsoleApp.csproj|solutionrelative:rabbitmqconsoleapp1\\constantstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\Program.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:22:23.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\Stock.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\InterviewQuestion\\Stock.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\Stock.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\InterviewQuestion\\Stock.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:21:33.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockPriceChangedEventArgs.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\StockPriceChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\InterviewQuestion\\StockPriceChangedEventArgs.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\StockPriceChangedEventArgs.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\InterviewQuestion\\StockPriceChangedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:21:05.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventPublisher.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\EventPublisher.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\InterviewQuestion\\EventPublisher.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\EventPublisher.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\InterviewQuestion\\EventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:19:28.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartdType.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\AbstractClass\\CartdType.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\AbstractClass\\CartdType.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\AbstractClass\\CartdType.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\AbstractClass\\CartdType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:46:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CriderCard.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\CriderCard.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\InterviewQuestion\\CriderCard.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\CriderCard.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\InterviewQuestion\\CriderCard.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:46:07.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestModel.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\TestModel.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\TestModel.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\TestModel.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\TestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:08:34.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerPizzaContext.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Data\\CustomerPizzaContext.cs",
+              "RelativeDocumentMoniker": "EFServiceLayer\\Data\\CustomerPizzaContext.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EFServiceLayer\\Data\\CustomerPizzaContext.cs",
+              "RelativeToolTip": "EFServiceLayer\\Data\\CustomerPizzaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:59:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFrameworkCore\\appsettings.json",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\EntityFrameworkCore\\appsettings.json",
+              "RelativeToolTip": "EntityFrameworkCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-19T15:42:44.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpoonacularService.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\AccessAPI\\SpoonacularService.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\AccessAPI\\SpoonacularService.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\AccessAPI\\SpoonacularService.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\AccessAPI\\SpoonacularService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:08:49.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\Program.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:53:14.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccessAPIClient.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\AccessAPIClient.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\InterviewQuestion\\AccessAPIClient.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\InterviewQuestion\\AccessAPIClient.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\InterviewQuestion\\AccessAPIClient.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:49:23.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConstantString.cs",
+              "DocumentMoniker": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\ConstantString.cs",
+              "RelativeDocumentMoniker": "RabbitmqConsoleApp1\\ConstantString.cs",
+              "ToolTip": "D:\\Application\\Entityframework\\APIServices\\EntityFrameworkCore\\RabbitmqConsoleApp1\\ConstantString.cs",
+              "RelativeToolTip": "RabbitmqConsoleApp1\\ConstantString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:55:12.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -27,6 +27,8 @@ namespace EFServiceLayer
 
         public IOrderRepository OrderRepository => _serviceProvider.GetService<IOrderRepository>();
 
+        public IEmployees EmployeesRepository => _serviceProvider.GetService<IEmployees>();
+
         public async Task<int> CompleteAsync()
         {
             return await _context.SaveChangesAsync();

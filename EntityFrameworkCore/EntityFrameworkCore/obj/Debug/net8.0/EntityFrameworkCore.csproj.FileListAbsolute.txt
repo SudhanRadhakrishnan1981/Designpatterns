@@ -295,3 +295,4 @@ D:\Application\Entityframework\APIServices\EntityFrameworkCore\EntityFrameworkCo
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.pdb
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EntityFrameworkCore\obj\Debug\net8.0\EntityFrameworkCore.genruntimeconfig.cache
 D:\Application\Entityframework\APIServices\EntityFrameworkCore\EntityFrameworkCore\obj\Debug\net8.0\ref\EntityFrameworkCore.dll
+D:\Application\Entityframework\APIServices\EntityFrameworkCore\EntityFrameworkCore\bin\Debug\net8.0\Microsoft.Office.Interop.Excel.dll

@@ -16,10 +16,10 @@ namespace EntityFrameworkCore.Controllers
 
         private readonly IRabitMQProducer _rabitMQProducer;
 
-        public ProductController(ILogger<ProductController> logger, IProductService customerPizzaContext, IRabitMQProducer rabitMQProducer)
+        public ProductController(ILogger<ProductController> logger, IProductService customerProductService, IRabitMQProducer rabitMQProducer)
         {
             _logger = logger;
-            productservices = customerPizzaContext;
+            productservices = customerProductService;
             _rabitMQProducer = rabitMQProducer;
         }
 
@@ -30,18 +30,7 @@ namespace EntityFrameworkCore.Controllers
         public async Task<IActionResult> GetAll()
         {
 
-
-            //var products = productcontext.Product
-            //        .Where(p => p.Price > 0.0M)
-            //        .OrderBy(p => p.Name)
-            //        .AsNoTracking() // Using AsNoTracking to avoid tracking changes
-            //        .ToList();
-
-          //  var products = productservices.GetProductList();
             var products = await productservices.GetAllProductsAsync();
-
-
-            // Replace with logic to fetch and return all items
             return Ok(products);
         }
 

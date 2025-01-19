@@ -1,0 +1,23 @@
+services:
+  entityframeworkcore:
+    links:
+          - sqlserverService     
+    image: ${DOCKER_REGISTRY-}entityframeworkcore
+    build:
+      context: .
+      dockerfile: EntityFrameworkCore/Dockerfile
+
+  sqlserverService: 
+    image: microsoft/mssql-server-linux:2019-latest  
+    hostname: 'LAPTOP-I4947D8J\\SQLEXPRESS'  
+    environment:  
+      ACCEPT_EULA: Y  
+      MSSQL_PID: "Express"
+      SA_PASSWORD: "Aswath07!"  
+      MSSQL_AGENT_ENABLED: "true"
+    volumes:  
+      - ./data/mssql:/var/opt/mssql3  
+    ports:  
+      - '1433:1433'  
+    expose:  
+      - 1433    
